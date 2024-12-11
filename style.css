@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom, #282c34, #3a3f47);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  canvas {
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #61dafb;
+    box-shadow: 0 0 20px rgba(97, 218, 251, 0.5);
+  }
+  h1 {
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #61dafb;
+  }
+  .score {
+    font-size: 24px;
+    color: #61dafb;
+    text-shadow: 1px 1px 2px black;
+  }
