@@ -1,2 +1,2 @@
 # Pong-game
-https://shuvajitdn.github.io/Pong-game/
+https://shuvajit-pong-games.netlify.app/
